@@ -1,0 +1,11 @@
+# Chapter 1 {.unnumbered}
+
+```{r}
+1 + 2
+```
+
+```{r}
+plot(cars)
+```
+
+{{< include _section.qmd >}}
