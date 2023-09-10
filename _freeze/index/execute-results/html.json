@@ -1,0 +1,16 @@
+{
+  "hash": "eb87151e698605fde2fe262091553239",
+  "result": {
+    "markdown": "# Chapter 1 {.unnumbered}\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 2\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 3\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(cars)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n## Chapter 1, Section 1\n\nAn `include`d section.\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(sleep)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-3-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\n2 * 3\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 6\n```\n\n\n:::\n:::\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
