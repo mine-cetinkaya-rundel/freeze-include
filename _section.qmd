@@ -9,3 +9,9 @@ plot(sleep)
 ```{r}
 2 * 3
 ```
+
+Make a change in the included file by adding this text and a new code chunk:
+
+```{r}
+5 + 5
+```
